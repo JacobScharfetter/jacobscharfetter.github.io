@@ -8,17 +8,15 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>G28 Plant Science</p>
+    <p>236 Tower Rd.</p>
+    <p>Ithaca, NY 14853</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a 2nd year Ph.D. student in the Bauerle Root Ecophsiology lab under Dr. Taryn Bauerle. Currently, I am exploring questions pertaining to root exudate chemistry and root exudate interactions. Prior to arriving to Cornell, I completed a M.Sc. at the University of Wisconsin-Madison under Dr. Amaya Atucha focusing on the effect horticultural practices have on cold-climate interspecific hybrid grape and wine varieties.    
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Beyond the academic realm, I was an avid runner and did a few ultra-marathons (I am too old and tired now). I enjoy singing, gardening, refurbishing old homes, playing piano, cooking, and talking/learning anything involving history. 
